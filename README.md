@@ -12,7 +12,7 @@
 ## 實現過程
 最後結果呈現。
 
-![](https://i.imgur.com/i6yBZwJ.gif =250x)
+![](https://i.imgur.com/i6yBZwJ.gif)
 
 ### 1. Storyboard
 在StoryBoard中拉出一個 `TabbarController` 及五個 `ViewController` ，注意順序，如下圖icon順序。
